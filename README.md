@@ -125,5 +125,6 @@ heart-disease-classification/
 This project currently has no license. All rights are reserved, and you must contact the repository owner for permission to use, modify, or distribute the code.
 
 ## Acknowledgments
+- [PrathamSahani](https://github.com/PrathamSahani) for providing the dataset.
 - Scikit-learn, Pandas, and Matplotlib communities for their open-source libraries.
 - Jupyter Notebook for enabling interactive data analysis.
