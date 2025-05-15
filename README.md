@@ -10,7 +10,7 @@ This repository contains a Jupyter notebook for a **Heart Disease Classification
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Results](#results)
+- [Results](#resaults)
 - [Contributing](#contributing)
 - [Usage Terms](#usage-terms)
 - [Acknowledgments](#acknowledgments)
